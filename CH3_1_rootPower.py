@@ -18,7 +18,7 @@ while power < 6:
     if (root**power) == target:
         power = 6
     else:
-        root = (number - 1)
+        root = (target - 1)
         
 
     
